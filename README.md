@@ -1,0 +1,2 @@
+# R-Kaggle-practice-NBA-data
+The purpose of this report is to analyse NBA dataset and to produce meaningful results using statistical and mathematical analysis. These analyses have been conducted using R. This report will focused on analysis of a number of areas, demonstrate how the analysis has been conducted, discusses theory used, demonstrate and evaluate produced results. In addition, where relevant, this report will highlight potential areas of future research
